@@ -11,7 +11,7 @@ A full system of applications that work in conjunction for schools with 3d print
 - USB Cables (may come with 3d printers)
 - An internet connection of some sort (either long ethernet to somewhere or WiFi
 
-### Software compoments
+### Software compoments   (outdated list, check the repos and find them youself, it's moving too fast to update every time :)
 - [automated-server](https://github.com/ISB3DPRINTERS/automated-server)
 - [teachers-console](https://github.com/ISB3DPRINTERS/teachers-console)
 - [HAProxy](https://github.com/ISB3DPRINTERS/haproxy-config)
